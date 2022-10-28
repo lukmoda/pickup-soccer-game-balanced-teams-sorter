@@ -1,4 +1,4 @@
-# pickup-soccbalanced-teams-sorterer-game-
+# pickup-soccer-balanced-teams-sorter
 Python project that generates balanced teams for pickup soccer games.
 
 The python script expects a csv as input (example in the repo), with Player name, Rating and a boolean column indicating if said player is participating in the pickup game for which you want to sort the teams.
